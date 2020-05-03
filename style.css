@@ -48,7 +48,7 @@
 
 #wowslider-container1 .ws_images{
 	position: relative;
-	left:364px;
+	left:0;
 	top:0;
 	height:100%;
 	max-height:none;
